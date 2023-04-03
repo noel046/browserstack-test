@@ -35,7 +35,7 @@ desired_cap = {
 
 driver = webdriver.Remote(
     command_executor= BROWSERSTACK_URL,
-    desired_capabilities=desired_cap,ṇ
+    desired_capabilities=desired_cap,
     options=chrome_options
 )
 
