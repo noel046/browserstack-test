@@ -1,0 +1,16 @@
+{
+  "title": "Amazon sign-in automation script",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/amazon-sign-in-automation-script",
+  "permalink": "/docs/category/amazon-sign-in-automation-script",
+  "navigation": {
+    "previous": {
+      "title": "Automation quickstart",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/docs/Automation quickstart/create-a-page"
+    }
+  }
+}

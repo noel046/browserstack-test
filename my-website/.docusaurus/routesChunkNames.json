@@ -1,0 +1,86 @@
+{
+  "/__docusaurus/debug-042": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-d-7-961"
+    }
+  },
+  "/__docusaurus/debug/config-994": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-d-7-961"
+    }
+  },
+  "/__docusaurus/debug/content-a44": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-d-7-961"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-ad8": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-d-7-961"
+    }
+  },
+  "/__docusaurus/debug/metadata-a05": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-d-7-961"
+    }
+  },
+  "/__docusaurus/debug/registry-e2c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-d-7-961"
+    }
+  },
+  "/__docusaurus/debug/routes-ecd": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-d-7-961"
+    }
+  },
+  "/BKP_index-a91": {
+    "__comp": "__comp---site-src-pages-bkp-index-js-05-c-e98",
+    "__context": {
+      "plugin": "plugin---bkp-index-67-b-a84"
+    },
+    "config": "config---bkp-index-5-e-9-0b0"
+  },
+  "/markdown-page-3ea": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---bkp-index-67-b-a84"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/-dd6": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---f-72-271"
+    },
+    "versionMetadata": "versionMetadata---935-fcf"
+  },
+  "/-96c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---0-e-3-279"
+  },
+  "/Automation quickstart/amazon-sign-in-c32": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---automation-quickstart-amazon-sign-in-6-be-05f"
+  },
+  "/Automation quickstart/GitHub-Actions-ad5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---automation-quickstart-git-hub-actions-703-e63"
+  },
+  "/Automation quickstart/Integrate-with-BrowserStack-5b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---automation-quickstart-integrate-with-browser-stack-2-d-0-5be"
+  },
+  "/category/selenium-automation-e14": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-selenium-automation-37-c-f62"
+  }
+}

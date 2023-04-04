@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Automation quickstart/congratulations",
+  "id": "Automation quickstart/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/Automation quickstart/congratulations.md",
+  "sourceDirName": "Automation quickstart",
+  "slug": "/Automation quickstart/congratulations",
+  "permalink": "/docs/Automation quickstart/congratulations",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Automation quickstart/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/Automation quickstart/deploy-your-site"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

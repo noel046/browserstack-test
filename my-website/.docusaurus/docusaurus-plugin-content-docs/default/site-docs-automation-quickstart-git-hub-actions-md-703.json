@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Automation quickstart/GitHub-Actions",
+  "id": "Automation quickstart/GitHub-Actions",
+  "title": "GitHub Actions",
+  "description": "GitHub Actions is a CI (Continuous Integration) and CD (Continuous Delivery) platform to automate build, test, and deployment pipelines. Create workflows to build and test every pull request to the repository or deploy merged pull requests to production.",
+  "source": "@site/docs/Automation quickstart/GitHub-Actions.md",
+  "sourceDirName": "Automation quickstart",
+  "slug": "/Automation quickstart/GitHub-Actions",
+  "permalink": "/Automation quickstart/GitHub-Actions",
+  "draft": false,
+  "editUrl": "https://github.com/noel046/browserstack-test/tree/Docs/my-website/docs/Automation quickstart/GitHub-Actions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrate script with BrowserStack",
+    "permalink": "/Automation quickstart/Integrate-with-BrowserStack"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Automation quickstart/amazon-sign-in",
+  "id": "Automation quickstart/amazon-sign-in",
+  "title": "Selenium Amazon Sign-in Automation script",
+  "description": "This Python script uses the Selenium package to automate the Amazon sign-in process. The script launches a Chrome browser and navigates to the Amazon sign-in page, enters the email address and password, selects the remember me checkbox, and clicks the sign-in button. The script is designed to run on BrowserStack, a cloud-based testing platform.",
+  "source": "@site/docs/Automation quickstart/amazon-sign-in.md",
+  "sourceDirName": "Automation quickstart",
+  "slug": "/Automation quickstart/amazon-sign-in",
+  "permalink": "/Automation quickstart/amazon-sign-in",
+  "draft": false,
+  "editUrl": "https://github.com/noel046/browserstack-test/tree/Docs/my-website/docs/Automation quickstart/amazon-sign-in.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Selenium Automation",
+    "permalink": "/category/selenium-automation"
+  },
+  "next": {
+    "title": "Integrate script with BrowserStack",
+    "permalink": "/Automation quickstart/Integrate-with-BrowserStack"
+  }
+}

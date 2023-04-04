@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Automation quickstart",
+  "description": "This document will guide you through the process of automating the Amazon sign-in page using selenium and integrating it with BrowserStack for continuous testing in your CI/CD pipeline using GitHub Actions.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "editUrl": "https://github.com/noel046/browserstack-test/tree/Docs/my-website/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Selenium Automation",
+    "permalink": "/category/selenium-automation"
+  }
+}

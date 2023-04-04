@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Automation quickstart/Integrate-with-BrowserStack",
+  "id": "Automation quickstart/Integrate-with-BrowserStack",
+  "title": "Integrate script with BrowserStack",
+  "description": "The BROWSERSTACK_URL constant is set to the URL of BrowserStack hub with the access credentials included to access the remote Chrome browser instance.",
+  "source": "@site/docs/Automation quickstart/Integrate-with-BrowserStack.md",
+  "sourceDirName": "Automation quickstart",
+  "slug": "/Automation quickstart/Integrate-with-BrowserStack",
+  "permalink": "/Automation quickstart/Integrate-with-BrowserStack",
+  "draft": false,
+  "editUrl": "https://github.com/noel046/browserstack-test/tree/Docs/my-website/docs/Automation quickstart/Integrate-with-BrowserStack.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Selenium Amazon Sign-in Automation script",
+    "permalink": "/Automation quickstart/amazon-sign-in"
+  },
+  "next": {
+    "title": "GitHub Actions",
+    "permalink": "/Automation quickstart/GitHub-Actions"
+  }
+}

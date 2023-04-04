@@ -1,0 +1,16 @@
+{
+  "title": "Automation script",
+  "description": "Amazon sign-up automation script using Selenium.",
+  "slug": "/category/automation-script",
+  "permalink": "/category/automation-script",
+  "navigation": {
+    "previous": {
+      "title": "Automation quickstart",
+      "permalink": "/"
+    },
+    "next": {
+      "title": "Selenium Amazon Sign-in Automation script",
+      "permalink": "/Automation quickstart/amazon-sign-in"
+    }
+  }
+}

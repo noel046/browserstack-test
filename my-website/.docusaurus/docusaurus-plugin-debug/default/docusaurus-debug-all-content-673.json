@@ -1,0 +1,186 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "editUrl": "https://github.com/noel046/browserstack-test/tree/Docs/my-website/docs",
+          "editUrlLocalized": "https://github.com/noel046/browserstack-test/tree/Docs/my-website/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\pugna\\browserstack-test\\my-website\\sidebars.js",
+          "contentPath": "C:\\Users\\pugna\\browserstack-test\\my-website\\docs",
+          "contentPathLocalized": "C:\\Users\\pugna\\browserstack-test\\my-website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "Automation quickstart/amazon-sign-in",
+              "id": "Automation quickstart/amazon-sign-in",
+              "title": "Selenium Amazon Sign-in Automation script",
+              "description": "This Python script uses the Selenium package to automate the Amazon sign-in process. The script launches a Chrome browser and navigates to the Amazon sign-in page, enters the email address and password, selects the remember me checkbox, and clicks the sign-in button. The script is designed to run on BrowserStack, a cloud-based testing platform.",
+              "source": "@site/docs/Automation quickstart/amazon-sign-in.md",
+              "sourceDirName": "Automation quickstart",
+              "slug": "/Automation quickstart/amazon-sign-in",
+              "permalink": "/Automation quickstart/amazon-sign-in",
+              "draft": false,
+              "editUrl": "https://github.com/noel046/browserstack-test/tree/Docs/my-website/docs/Automation quickstart/amazon-sign-in.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Selenium Automation",
+                "permalink": "/category/selenium-automation"
+              },
+              "next": {
+                "title": "Integrate script with BrowserStack",
+                "permalink": "/Automation quickstart/Integrate-with-BrowserStack"
+              }
+            },
+            {
+              "unversionedId": "Automation quickstart/GitHub-Actions",
+              "id": "Automation quickstart/GitHub-Actions",
+              "title": "GitHub Actions",
+              "description": "GitHub Actions is a CI (Continuous Integration) and CD (Continuous Delivery) platform to automate build, test, and deployment pipelines. Create workflows to build and test every pull request to the repository or deploy merged pull requests to production.",
+              "source": "@site/docs/Automation quickstart/GitHub-Actions.md",
+              "sourceDirName": "Automation quickstart",
+              "slug": "/Automation quickstart/GitHub-Actions",
+              "permalink": "/Automation quickstart/GitHub-Actions",
+              "draft": false,
+              "editUrl": "https://github.com/noel046/browserstack-test/tree/Docs/my-website/docs/Automation quickstart/GitHub-Actions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integrate script with BrowserStack",
+                "permalink": "/Automation quickstart/Integrate-with-BrowserStack"
+              }
+            },
+            {
+              "unversionedId": "Automation quickstart/Integrate-with-BrowserStack",
+              "id": "Automation quickstart/Integrate-with-BrowserStack",
+              "title": "Integrate script with BrowserStack",
+              "description": "The BROWSERSTACK_URL constant is set to the URL of BrowserStack hub with the access credentials included to access the remote Chrome browser instance.",
+              "source": "@site/docs/Automation quickstart/Integrate-with-BrowserStack.md",
+              "sourceDirName": "Automation quickstart",
+              "slug": "/Automation quickstart/Integrate-with-BrowserStack",
+              "permalink": "/Automation quickstart/Integrate-with-BrowserStack",
+              "draft": false,
+              "editUrl": "https://github.com/noel046/browserstack-test/tree/Docs/my-website/docs/Automation quickstart/Integrate-with-BrowserStack.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Selenium Amazon Sign-in Automation script",
+                "permalink": "/Automation quickstart/amazon-sign-in"
+              },
+              "next": {
+                "title": "GitHub Actions",
+                "permalink": "/Automation quickstart/GitHub-Actions"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Automation quickstart",
+              "description": "This document will guide you through the process of automating the Amazon sign-in page using selenium and integrating it with BrowserStack for continuous testing in your CI/CD pipeline using GitHub Actions.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "editUrl": "https://github.com/noel046/browserstack-test/tree/Docs/my-website/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Selenium Automation",
+                "permalink": "/category/selenium-automation"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Selenium Automation",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Automation quickstart/amazon-sign-in"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Automation quickstart/Integrate-with-BrowserStack"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Automation quickstart/GitHub-Actions"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Amazon sign-up automation script using Selenium.",
+                  "slug": "/category/selenium-automation",
+                  "permalink": "/category/selenium-automation"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/BKP_index",
+        "source": "@site/src/pages/BKP_index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

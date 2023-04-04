@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Automation quickstart/amazon-sign-in",
+              "path": "/Automation quickstart/amazon-sign-in",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Automation quickstart/GitHub-Actions",
+              "path": "/Automation quickstart/GitHub-Actions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Automation quickstart/Integrate-with-BrowserStack",
+              "path": "/Automation quickstart/Integrate-with-BrowserStack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/selenium-automation",
+              "path": "/category/selenium-automation",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
