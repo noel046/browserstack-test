@@ -18,7 +18,10 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  projectName: 'BrowserStack-test', // Usually your repo name.
+  organizationName: 'noel046', // Usually your GitHub org/user name.
+  projectName: 'browserstack-test', // Usually your repo name.
+  deploymentBranch: 'Docs', // Branch that contains the docs.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
